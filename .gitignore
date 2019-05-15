@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Payments
+*.exe
+*.amount
+*.out
+*.app
